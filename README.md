@@ -18,7 +18,7 @@ Membuat dokumentasi pengujian lengkap berdasarkan requirement yang diberikan, me
 ---
 
 ### 🔌 Project 2 — API Automation Testing
-> **Repo:** [Tugas-Sesi-7](https://github.com/Rohman-n/Tugas-Sesi-7) | **API:** reqres.in
+> **Repo:** [Project-2](https://github.com/Rohman-n/Project-2) | **API:** reqres.in
 
 Membangun project API automation testing menggunakan framework Mocha dan Chai. Mengimplementasikan JSON Schema validation pada setiap test case untuk memastikan struktur response API sesuai kontrak.
 
@@ -28,7 +28,7 @@ Membangun project API automation testing menggunakan framework Mocha dan Chai. M
 
 **Tools:** Node.js · Mocha · Chai · reqres.in
 
-[![Repo](https://img.shields.io/badge/GitHub-Tugas--Sesi--7-181717?style=flat-square&logo=github)](https://github.com/Rohman-n/Tugas-Sesi-7)
+[![Repo](https://img.shields.io/badge/GitHub-Tugas--Sesi--7-181717?style=flat-square&logo=github)](https://github.com/Rohman-n/Project-2)
 
 ---
 
