@@ -9,11 +9,11 @@ Membuat dokumentasi pengujian lengkap berdasarkan requirement yang diberikan, me
 
 | Deliverable | Link |
 |---|---|
-| 📄 Test Plan | [Lihat Dokumen](https://drive.google.com/LINK_TEST_PLAN) |
-| 📊 Test Case | [Lihat Dokumen](https://drive.google.com/LINK_TEST_CASE) |
-| 🐛 Bug Report | [Lihat Dokumen](https://drive.google.com/LINK_BUG_REPORT) |
+| 📄 Test Plan | [Lihat Dokumen](https://drive.google.com/file/d/1-advHmjcH5ZoxK2pj3ol-giBq-P86gPd/view?usp=sharing) |
+| 📊 Test Case | [Lihat Dokumen](https://docs.google.com/spreadsheets/d/1f5FHTEAMLHVQTuvrC8m_-X6VJX58uDqS/edit?usp=sharing&ouid=110183023979710088485&rtpof=true&sd=true) |
+| 🐛 Bug Report | [Lihat Dokumen](https://docs.google.com/spreadsheets/d/1f5FHTEAMLHVQTuvrC8m_-X6VJX58uDqS/edit?usp=sharing&ouid=110183023979710088485&rtpof=true&sd=true) |
 
-**Tools:** Google Sheets · Jira
+**Tools:** Excel
 
 ---
 
