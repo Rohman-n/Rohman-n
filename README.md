@@ -1,20 +1,5 @@
 <h1 align="center">Hi, I'm Nur Rohman 👋</h1>
 
-<p align="center">
-  <b>QA Engineer</b> · Fresh Graduate · Digitalskola Bootcamp Alumni
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/USERNAME_LINKEDIN_KAMU">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:EMAIL_KAMU@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
 ## 👨‍💻 About Me
 
 QA Engineer graduate dari **Mini Bootcamp QA Engineer — Digitalskola**. Memiliki kemampuan dalam pengujian perangkat lunak secara menyeluruh, mulai dari manual testing hingga automation testing.
