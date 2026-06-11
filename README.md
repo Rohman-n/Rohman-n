@@ -33,7 +33,7 @@ Membangun project API automation testing menggunakan framework Mocha dan Chai. M
 ---
 
 ### ⚡ Project 3 — Performance Testing (Load Test)
-> **Tools:** Apache JMeter | **Target:** reqres.in
+> **Repo:** [Tugas-Sesi-14](https://github.com/Rohman-n/Project-3) | **Target:** reqres.in
 
 Membuat load test project menggunakan JMeter untuk mengukur performa endpoint API. Mengimplementasikan validasi HTTP status code dan JSON field assertion, serta menghasilkan HTML report hasil pengujian.
 
@@ -42,11 +42,9 @@ Membuat load test project menggunakan JMeter untuk mengukur performa endpoint AP
 - ✅ JSON Field validation (`$.token`) via JSONPath Assertion
 - ✅ Generated HTML Report
 
-| File | Link |
-|---|---|
-| 📁 JMX File + HTML Report | [Lihat di Google Drive](https://drive.google.com/LINK_JMETER_PROJECT) |
-
 **Tools:** Apache JMeter 5.6.3
+
+[![Repo](https://img.shields.io/badge/GitHub-Tugas--Sesi--14-181717?style=flat-square&logo=github)](https://github.com/Rohman-n/Project-3)
 
 ---
 
@@ -66,26 +64,12 @@ Mengotomasi pengujian aplikasi Android menggunakan Appium WebDriverIO. Melakukan
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rohman-n&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohman-n&layout=compact&hide_border=true&theme=default" height="150" />
-</p>
-
----
-
 ## 📬 Let's Connect
 
 Saya terbuka untuk peluang kerja sebagai **QA Engineer**. Jangan ragu untuk menghubungi saya!
 
 <p align="center">
-  <a href="https://linkedin.com/in/USERNAME_LINKEDIN_KAMU">LinkedIn</a> ·
-  <a href="mailto:EMAIL_KAMU@gmail.com">Email</a>
+  <a href="mailto:nurr211355@gmail.com">Email</a>
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rohman-n&color=blue&style=flat-square" alt="profile views" />
-</p>
