@@ -33,7 +33,7 @@ Membangun project API automation testing menggunakan framework Mocha dan Chai. M
 ---
 
 ### ⚡ Project 3 — Performance Testing (Load Test)
-> **Repo:** [Tugas-Sesi-14](https://github.com/Rohman-n/Project-3) | **Target:** reqres.in
+> **Repo:** [Project-3](https://github.com/Rohman-n/Project-3) | **Target:** reqres.in
 
 Membuat load test project menggunakan JMeter untuk mengukur performa endpoint API. Mengimplementasikan validasi HTTP status code dan JSON field assertion, serta menghasilkan HTML report hasil pengujian.
 
@@ -49,7 +49,7 @@ Membuat load test project menggunakan JMeter untuk mengukur performa endpoint AP
 ---
 
 ### 📱 Project 4 — Mobile Automation Testing
-> **Repo:** [Tugas-Sesi-14](https://github.com/Rohman-n/Project-4) | **App:** APIDemos-debug.apk
+> **Repo:** [Project-4](https://github.com/Rohman-n/Project-4) | **App:** APIDemos-debug.apk
 
 Mengotomasi pengujian aplikasi Android APIDemos menggunakan Appium WebDriverIO dengan pendekatan Page Object Model (POM). Verifikasi input form dilakukan sebelum submit, dan hasil pengujian divisualisasikan melalui Allure Report.
 
