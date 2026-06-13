@@ -28,7 +28,7 @@ Membangun project API automation testing menggunakan framework Mocha dan Chai. M
 
 **Tools:** Node.js · Mocha · Chai · reqres.in
 
-[![Repo](https://img.shields.io/badge/GitHub-Tugas--Sesi--7-181717?style=flat-square&logo=github)](https://github.com/Rohman-n/Project-2)
+[![Repo](https://img.shields.io/badge/GitHub-Project--2-181717?style=flat-square&logo=github)](https://github.com/Rohman-n/Project-2)
 
 ---
 
@@ -44,14 +44,14 @@ Membuat load test project menggunakan JMeter untuk mengukur performa endpoint AP
 
 **Tools:** Apache JMeter 5.6.3
 
-[![Repo](https://img.shields.io/badge/GitHub-Tugas--Sesi--14-181717?style=flat-square&logo=github)](https://github.com/Rohman-n/Project-3)
+[![Repo](https://img.shields.io/badge/GitHub-Project--3-181717?style=flat-square&logo=github)](https://github.com/Rohman-n/Project-3)
 
 ---
 
 ### 📱 Project 4 — Mobile Automation Testing
-> **Repo:** [Tugas-Sesi-14](https://github.com/Rohman-n/Tugas-Sesi-14) | **App:** APIDemos-debug.apk
+> **Repo:** [Tugas-Sesi-14](https://github.com/Rohman-n/Project-4) | **App:** APIDemos-debug.apk
 
-Mengotomasi pengujian aplikasi Android menggunakan Appium WebDriverIO. Melakukan navigasi ke menu Alert Dialogs > Text Entry Dialog, mengisi form, dan melakukan verifikasi input. Laporan pengujian divisualisasikan menggunakan Allure Report.
+Mengotomasi pengujian aplikasi Android APIDemos menggunakan Appium WebDriverIO dengan pendekatan Page Object Model (POM). Verifikasi input form dilakukan sebelum submit, dan hasil pengujian divisualisasikan melalui Allure Report.
 
 - ✅ Launch APIDemos-debug.apk
 - ✅ Navigasi App → Alert Dialogs → Text Entry Dialog
@@ -60,7 +60,7 @@ Mengotomasi pengujian aplikasi Android menggunakan Appium WebDriverIO. Melakukan
 
 **Tools:** Appium · WebDriverIO · Allure Report · Android
 
-[![Repo](https://img.shields.io/badge/GitHub-Tugas--Sesi--14-181717?style=flat-square&logo=github)](https://github.com/Rohman-n/Tugas-Sesi-14)
+[![Repo](https://img.shields.io/badge/GitHub-Project--4-181717?style=flat-square&logo=github)](https://github.com/Rohman-n/Project-4)
 
 ---
 
